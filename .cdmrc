@@ -1,0 +1,1 @@
+tabs: ['README.md',contracts/ERC20.sol','migrations/1_erc20_migration.js']
